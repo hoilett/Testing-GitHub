@@ -1,0 +1,12 @@
+Arduino Pro
+
+
+Brain-Computer Interface
+
+
+Designing a Smartwatch
+
+
+
+
+https://github.com/LinnesLab/KickStat-Paper-Firmware
